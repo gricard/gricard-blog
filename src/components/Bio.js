@@ -35,7 +35,8 @@ function Bio() {
                 <strong>{author}'s</strong> 
               </a>
               {' '}
-              thoughts on random things, like running, fitness, paintball, software, etc.
+              thoughts on random things, like running, fitness, paintball, life, etc.
+              I also rant about software over at <a href="https://cdgd.tech">cdgd.tech</a>.
             </p>
           </div>
         )
