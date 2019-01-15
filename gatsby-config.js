@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Brain Dump`,
+    title: `Gabriel Ricard`,
     author: `Gabriel Ricard`,
     description: `Just life things...`,
     siteUrl: `https://gabriel.run`,
@@ -57,7 +57,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Brain Dump`,
+        name: `Gabriel Ricard`,
         short_name: `GabrielRicard`,
         start_url: `/`,
         background_color: `#ffffff`,
