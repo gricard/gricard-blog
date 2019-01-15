@@ -25,7 +25,12 @@ class BlogPostTemplate extends React.Component {
           }}
         >
           {post.frontmatter.date}
-        </p>
+          {!post.frontmatter.tags ? null : (
+            <div style={{fontStyle: 'italic'}}>
+              {post.frontmatter.tags.join(', ')}
+            </div>
+          )}
+      </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
@@ -80,6 +85,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        tags
       }
     }
   }
