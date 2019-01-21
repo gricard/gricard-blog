@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
-import _ from 'lodash'
+import _kebabCase from 'lodash/kebabCase'
 
 import Bio from '../components/Bio'
 import Layout from '../components/Layout'
@@ -30,7 +30,7 @@ class BlogPostTemplate extends React.Component {
                         <div style={{ fontStyle: 'italic' }}>
                             {post.frontmatter.tags.map(tag => (
                                 <React.Fragment>
-                                    <Link to={'/tags/' + _.kebabCase(tag)}>{tag}</Link>
+                                    <Link to={'/tags/' + _kebabCase(tag)}>{tag}</Link>
                                     {' '}
                                 </React.Fragment>
                             ))}
