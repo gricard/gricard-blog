@@ -1,7 +1,11 @@
 ---
+path: /how-i-became-a-runner
 title: 'How I became a runner'
 date: '2019-01-15T14:48:12'
-tags: ['running', 'fitness', 'memories']
+published: true
+tags:
+    - running
+    - fitness
 ---
 
 In high school gym class we had to run a mile every year, I assume as part of some fitness evaluation. I have vague recollections of doing it in around 7 minutes, because I mainly didn't give a shit back then. I wasn't the fastest by a long shot, nor was I competitive about it. But, I do remember another kid, Shua, who was *real damn fast*. Like, he ran the mile in 4 or 5 minutes. It impressed me, but surly teenagers don't admit to being impressed so I never brought it up, or really tried to pursue running.
