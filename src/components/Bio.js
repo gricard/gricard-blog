@@ -33,7 +33,8 @@ function Bio() {
                         <p>
                             My thoughts on random things, like running, fitness, paintball, life, etc. I also rant about
                             software over at <a href="https://cdgd.tech">cdgd.tech</a>, and{' '}
-                            <a href={`https://twitter.com/${social.twitter}`}>twitter</a>.
+                            <a href={`https://twitter.com/${social.twitter}`}>twitter</a>.<br />
+                            Here's my list of <a href="/gear">running gear</a>
                         </p>
                     </div>
                 )
