@@ -3,6 +3,8 @@ path: /how-i-became-a-runner
 title: 'How I became a runner'
 date: '2019-01-15T14:48:12'
 published: true
+running_gear_page: false
+running_gear_order: 
 tags:
     - running
     - fitness

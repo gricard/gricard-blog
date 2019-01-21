@@ -2,9 +2,11 @@
 path: /first-post
 title: Wha-wha-wha-wha-what's it all about?
 date: '2019-01-12T09:03:19'
+published: true
+running_gear_page: false
+running_gear_order: 
 tags:
     - home
-published: true
 ---
 
 Check che-check-check checka-check it out!
