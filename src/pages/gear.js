@@ -45,7 +45,7 @@ class GearIndex extends React.Component {
                                 }}
                             >
                                 <Link style={{ boxShadow: `none` }} to={node.frontmatter.path}>
-                                    {title} ({_get(node, 'frontmatter.running_gear_order')})
+                                    {title}
                                 </Link>
                             </h3>
                             <small>{node.frontmatter.date}</small>
