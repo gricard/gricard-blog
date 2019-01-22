@@ -37,8 +37,13 @@ exports.createPages = ({ graphql, actions }) => {
             const previous = index === posts.length - 1 ? null : posts[index + 1].node
             const next = index === 0 ? null : posts[index - 1].node
 
+            // PROBLEM: `gatsby develop` crashes when we create new blog post directories
+            // SOLUTION: ignore the post if we don't have basic data set in the frontmatter yet
+            if (!post.node.frontmatter.path) {
+                return null;
+            }
+
             createPage({
-                //path: post.node.fields.slug,
                 path: post.node.frontmatter.path,
                 component: blogPost,
                 context: {
