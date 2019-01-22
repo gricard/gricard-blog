@@ -11,9 +11,9 @@ tags:
     - shoes
 ---
 
-![Brooks Adrenaline GTS 18](./brooks-adrenaline-gts-18.jpg)
+As far as I'm concerned, the most important piece of gear for running is your shoes. You're going to beat the hell out of your feet. Make sure you take care of them! I am currently rocking these Brooks shoes, and they've been through five half marathons and countless other training runs.
 
-#Brooks Adrenaline GTS 18
+![Brooks Adrenaline GTS 18](./brooks-adrenaline-gts-18.jpg)
 
 From my first trip to the running store up until last year I was always running in Asics (usually the Cumulus model) because I have wide feet and they were the most comfortable for me. But, last year's model started giving me problems. It turns out that the Cumulus line started getting thinner for some reason, and was no longer a good fit for me. I switched to Brooks, and I haven't looked back.
 
