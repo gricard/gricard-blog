@@ -28,7 +28,9 @@ class GearIndex extends React.Component {
 
                 <h1>Running Gear</h1>
                 <p>
-                    I like gadgets and gear. I get fairly nerdy about it. These articles cover the gear I use for running and how they benefit me.
+                    I like gadgets and gear. I get fairly nerdy about it. 
+                    These articles cover the gear I use for running and how they benefit me.
+                    They are sorted by how I perceive their importance.
                 </p>
 
                 {!posts || posts.length < 1 ? (
