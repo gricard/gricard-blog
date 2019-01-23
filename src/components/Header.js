@@ -65,8 +65,8 @@ const SiteHeader = props => (
                 {props.title}
                 </h1>
             </LogoLink>
-            {typeof window !== 'undefined' && window.location.pathname === '/' ? null : <NavLink to="/">Blog</NavLink>}
-            {typeof window !== 'undefined' && window.location.pathname === '/gear' ? null : <NavLink to="/gear">Gear</NavLink>}
+            <NavLink to="/">Blog</NavLink>
+            <NavLink to="/gear">Gear</NavLink>
         </Nav>
     </Header>
 );
