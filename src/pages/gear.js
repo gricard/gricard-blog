@@ -32,6 +32,11 @@ class GearIndex extends React.Component {
                     These articles cover the gear I use for running and how they benefit me.
                     They are sorted by how I perceive their importance.
                 </p>
+                <p>
+                    Please remember: these are just my personal preferences. 
+                    Feel free to try these products for yourself, but I take no responsibility for anyone else's actions.
+                    Always read the product labels and use them as directed.
+                </p>
 
                 {!posts || posts.length < 1 ? (
                     <p>
