@@ -63,9 +63,10 @@ class Layout extends React.Component {
             >
                 {header}
                 {children}
-                <footer>
-                    © {new Date().getFullYear()}, Built with
-                    {` `}
+                <footer style={{textAlign: 'center'}}>
+                    © {new Date().getFullYear()} Gabriel Ricard
+                    <br /> 
+                    Built with {` `}
                     <a href="https://www.gatsbyjs.org">Gatsby</a>
                 </footer>
             </div>
