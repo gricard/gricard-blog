@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import { rhythm, scale } from '../utils/typography'
+import Header from './Header'
 
 class Layout extends React.Component {
     render() {
@@ -52,6 +53,11 @@ class Layout extends React.Component {
                 </h3>
             )
         }
+
+        header = (
+            <Header role="banner" title={title} />
+        )
+
         return (
             <div
                 style={{
@@ -62,7 +68,9 @@ class Layout extends React.Component {
                 }}
             >
                 {header}
+                <div style={{paddingTop: '60px'}}>
                 {children}
+                </div>
                 <footer style={{textAlign: 'center'}}>
                     © {new Date().getFullYear()} Gabriel Ricard
                     <br /> 
