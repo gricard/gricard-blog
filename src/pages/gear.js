@@ -75,8 +75,8 @@ export const pageQuery = graphql`
             }
         }
         allMarkdownRemark(
-            sort: { fields: [frontmatter___date], order: ASC }
-            filter: { frontmatter: { running_gear_page: { eq: true } } }
+            sort: { fields: [frontmatter___date], order: ASC },
+            filter: { frontmatter: { running_gear_page: { eq: true }, published: { eq: true } } }
         ) {
             edges {
                 node {
