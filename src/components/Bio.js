@@ -17,19 +17,6 @@ function Bio() {
                             marginBottom: rhythm(2.5),
                         }}
                     >
-                        <Image
-                            fixed={data.avatar.childImageSharp.fixed}
-                            alt={author}
-                            style={{
-                                marginRight: rhythm(1 / 2),
-                                marginBottom: 0,
-                                minWidth: 50,
-                                borderRadius: `100%`,
-                            }}
-                            imgStyle={{
-                                borderRadius: `50%`,
-                            }}
-                        />
                         <p>
                             My thoughts on random things, like running, fitness, paintball, life, etc. I also rant about
                             software over at <a href="https://cdgd.tech">cdgd.tech</a>, and{' '}
