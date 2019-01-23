@@ -58,7 +58,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Gabriel Ricard`,
-        short_name: `GabrielRicard`,
+        short_name: `GRicard`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
