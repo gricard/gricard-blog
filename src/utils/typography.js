@@ -9,6 +9,9 @@ Wordpress2016.overrideThemeStyles = () => {
         'a': {
             color: '#1b4384',
         },
+        'body': {
+            backgroundColor: '#d6e1f3',
+        }
     }
 }
 
