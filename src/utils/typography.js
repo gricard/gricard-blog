@@ -11,7 +11,10 @@ Wordpress2016.overrideThemeStyles = () => {
         },
         'body': {
             backgroundColor: '#d6e1f3',
-        }
+        },
+        'ul': {
+            marginLeft: '2rem !important',
+        },
     }
 }
 
