@@ -31,6 +31,9 @@ Other miscellaneous thoughts on clothing:
 
 **Sun**: Either light athletic sunglasses, or my running hat.
 
-**Cold**: Depending on the temperature and wind, I'll either wear a full-on winter hat, or I may just toss on one of my gajillion Tough Mudder headbands to use as ear-warmers.
+**Cold** 
+- Depending on the temperature and wind, I'll either wear a full-on winter hat, or I may just toss on one of my gajillion Tough Mudder headbands to use as ear-warmers. 
+- I also highly recommend a pair of wind-proof mittens for cold weather running. I usually only keep them on for a mile or two until my hands warm up all the way. I use [Sugoi Zap Wind Mitts](https://us-store.sugoi.com/products/u919100u-zap-wind-mitt)
+- And if you're looking for a light jacket, with a hood for rain, pockets for your mittens, and bright/reflective surface for night running, then check out the [Craft urban running jacket](https://www.craftsportswear.com/B2C%20-%20Craft/all-products-7a58fca3/clothes/jackets--vests/1906447-809926/) 
 
 That's what I wear, but we're all different. Try out different clothing options. See what works for you.
