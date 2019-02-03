@@ -33,3 +33,4 @@ Other miscellaneous thoughts on clothing:
 
 **Cold**: Depending on the temperature and wind, I'll either wear a full-on winter hat, or I may just toss on one of my gajillion Tough Mudder headbands to use as ear-warmers.
 
+That's what I wear, but we're all different. Try out different clothing options. See what works for you.
