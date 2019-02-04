@@ -15,6 +15,12 @@ Wordpress2016.overrideThemeStyles = () => {
         'ul': {
             marginLeft: '2rem !important',
         },
+        'th': {
+            verticalAlign: 'top',
+        },
+        'td': {
+            verticalAlign: 'top',
+        },
     }
 }
 
