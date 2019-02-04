@@ -18,7 +18,7 @@ POST_NUM=`expr $LATEST_POST_NUM + 1`
 PADDED_POST_NUM=`printf %04d $POST_NUM`
 
 # check that it doesn't exist yet
-NEW_POST_DIR="$BLOG_POST_DIR/${PADDED_POST_NUM}_$SLUG"
+NEW_POST_DIR="$BLOG_POST_DIR/${PADDED_POST_NUM}-$SLUG"
 
 if [ -d "$NEW_POST_DIR" ]
 then
