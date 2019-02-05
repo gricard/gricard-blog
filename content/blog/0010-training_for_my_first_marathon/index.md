@@ -1,5 +1,5 @@
 ---
-path: training_for_my_first_marathon
+path: /training_for_my_first_marathon
 title: Training for my First Marathon
 date: 2019-02-04T12:29:49
 published: true
@@ -75,6 +75,6 @@ In addition to this, I may throw in some cycling and other exercises from time t
 ##Sticking to it
 I've gotten in a good habit of exercising almost every day. I've completed four 24-day workout challenges in the past four months (exercise 24 days out of 30). Sometimes you just need rest days, or you just don't have time. I don't beat myself up. I just accept it and move on (and usually do a double to make up for it). 
 
-I use a physical calendar to track my workouts. I pencil in the workouts from my schedule one month at a time. As I go through the month, I write in what I actually did in pen. I also track everything with my Garmin watch & their [Connect app](https://connect.garmin.com/en-US/), as well as [Strava](https://www.strava.com/). 
+I use a physical calendar to track my workouts. I pencil in the workouts from my schedule one month at a time. As I go through the month, I write in what I actually did in pen. I also track everything with [my Garmin watch](/garmin_gps_running_watches) & their [Connect app](https://connect.garmin.com/en-US/), as well as [Strava](https://www.strava.com/). 
 
 One week at a time I'm moving towards my goal. We'll see what happens on May 18th. 
