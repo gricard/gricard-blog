@@ -1,5 +1,5 @@
 ---
-path: you_cant_run_naked
+path: /you_cant_run_naked
 title: You can't run naked
 date: 2019-02-03T08:37:18
 published: true

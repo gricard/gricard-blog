@@ -1,5 +1,5 @@
 ---
-path: PATH_GOES_HERE
+path: /PATH_GOES_HERE
 title: TITLE_GOES_HERE
 date: DATE_GOES_HERE
 published: false
