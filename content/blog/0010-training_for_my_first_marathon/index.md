@@ -45,11 +45,11 @@ In addition to this, I may throw in some cycling and other exercises from time t
 | 7 | Y <br/> Abs | EU <br/> AHHIT | 7x800m | EL <br/> LM | 8mi <br/> Abs | IN <br/> AHHIT | 17mi <br/> DYN |
 | 8 | Y <br/> Abs | ISO <br/> AHHIT | 3x1600m | DYN | 10mi <br/> Abs | P <br/> AHHIT | 13mi <br/> DYN |
 | 9 | Y <br/> Abs | TS <br/> AHHIT | 12x400m | TC <br/> LM | 3mi <br/> Abs | TW <br/> AHHIT | 18mi <br/> DYN |
-| 13 | Y <br/> Abs | EU <br/> AHHIT | 8x800m | EL <br/> LM | 5mi <br/> Abs | IN <br/> AHHIT | 15mi <br/> DYN |
-| 10 | Y <br/> Abs | TS <br/> AHHIT | 4x1600m | TC <br/> LM | 8mi <br/> Abs | TW <br/> AHHIT | 20mi <br/> DYN |
+| 10 | Y <br/> Abs | EU <br/> AHHIT | 8x800m | EL <br/> LM | 5mi <br/> Abs | IN <br/> AHHIT | 15mi <br/> DYN |
+| 11 | Y <br/> Abs | TS <br/> AHHIT | 4x1600m | TC <br/> LM | 8mi <br/> Abs | TW <br/> AHHIT | 20mi <br/> DYN |
 | 12 | Y <br/> Abs | ISO <br/> AHHIT | 12x400m | DYN | 5mi <br/> Abs | P <br/> AHHIT | 15mi <br/> DYN |
-| 14 | Y <br/> Abs | EU <br/> AHHIT | 6x1200m | EL <br/> LM | 5mi <br/> Abs | IN <br/> AHHIT | 20mi <br/> DYN |
-| 11 | Y <br/> Abs | TS <br/> AHHIT | 7x800m | TC <br/> LM | 4mi <br/> Abs | TW <br/> AHHIT | 15mi <br/> DYN |
+| 13 | Y <br/> Abs | EU <br/> AHHIT | 6x1200m | EL <br/> LM | 5mi <br/> Abs | IN <br/> AHHIT | 20mi <br/> DYN |
+| 14 | Y <br/> Abs | TS <br/> AHHIT | 7x800m | TC <br/> LM | 4mi <br/> Abs | TW <br/> AHHIT | 15mi <br/> DYN |
 | 15 | Y <br/> Abs | EU <br/> AHHIT | 3x1600m | EL <br/> LM | 8mi <br/> Abs | IN <br/> AHHIT | 10mi <br/> DYN |
 | 16 | Y <br/> Abs | ISO <br/> AHHIT | 30min easy<br/>5x60s | DYN | 20min easy<br/> Abs | P <br/> AHHIT | 26.2mi<br/> DYN |
 
